@@ -2,6 +2,14 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
+/* TRABALHO A3 CHATBOT DE SUPORTE PARA SITES EM GERAL!
+   Alunos: 
+   Gustavo Del'Aqua Gianone (RA: 12524141407)
+   Vitor Hugo Vieira Dos Santos (RA: 12524135277)
+   Gabriel Teles Da Silva (RA: 12524131628)
+   Tiago Abrantes (RA: 12524137343)
+*/
+
 public class chatbot {
     // Arrays contendo as mensagens de saudação, despedida e FAQs
     private String[] greetings = {"Olá!", "Oi!", "Como posso ajudar você?"};
@@ -22,17 +30,17 @@ public class chatbot {
     
     // Respostas correspondentes às FAQs
     private String[] faqResponses = {
-        "nossa política de privacidade pode ser encontrada em nosso site na seção 'Política de Privacidade'.",
-        "você pode atualizar suas informações de perfil acessando a área 'Meu Perfil' em nosso site.",
+        "nossa politica de privacidade pode ser encontrada em nosso site na seção 'Politica de Privacidade'.",
+        "você pode atualizar suas informaçoes de perfil acessando a área 'Meu Perfil' em nosso site.",
         "sim, você pode cancelar sua assinatura a qualquer momento na seção 'Assinatura' do seu perfil.",
         "para redefinir sua senha, clique em 'Esqueci minha senha' na página de login e siga as instruções.",
-        "aceitamos os seguintes métodos de pagamento: cartão de crédito, PayPal e boleto bancário.",
-        "se você esquecer seu nome de usuário, clique em 'Esqueci meu nome de usuário' na página de login.",
+        "aceitamos os seguintes metodos de pagamento: cartão de crédito, PayPal e boleto bancário.",
+        "se você esquecer seu nome de usuario, clique em 'Esqueci meu nome de usuario' na página de login.",
         "você pode entrar em contato com o suporte ao cliente pelo e-mail suporte@exemplo.com ou pelo telefone 0800-123-456.",
         "sim, temos um programa de fidelidade! Visite a seção 'Fidelidade' em nosso site para mais informações.",
-        "você pode encontrar informações sobre nossos produtos/serviços na seção 'Produtos' ou 'Serviços' em nosso site.",
-        "para fazer uma reclamação, acesse a seção 'Contato' em nosso site e preencha o formulário de reclamação.",
-        "a previsão do tempo para hoje indica que o dia está ensolarado."
+        "você pode encontrar informaçoes sobre nossos produtos/serviços na seção 'Produtos' ou 'Serviços' em nosso site.",
+        "para fazer uma reclamaçao, acesse a seção 'Contato' em nosso site e preencha o formulário de reclamação.",
+        "a previsao do tempo para hoje indica que o dia está ensolarado."
     };
     
     // Palavras-chave para cada FAQ
