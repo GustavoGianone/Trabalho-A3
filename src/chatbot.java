@@ -8,12 +8,14 @@ import java.util.Scanner;
    Vitor Hugo Vieira Dos Santos (RA: 12524135277)
    Gabriel Teles Da Silva (RA: 12524131628)
    Tiago Abrantes (RA: 12524137343)
+   Kaio Ferreira Dos Santos (RA: 1252414802)
+   Juan Victor Varelo Gonçalves Ogata (RA: 12524136758)
 */
 
 public class chatbot {
     // Arrays contendo as mensagens de saudação, despedida e FAQs
-    private String[] greetings = {"Olá!", "Oi!", "Como posso ajudar você?"};
-    private String[] farewells = {"Até logo!", "Tchau!", "Até mais!"};
+    private String[] saudacoes = {"Olá!", "Oi!", "Como posso ajudar você?"};
+    private String[] despedidas = {"Até logo!", "Tchau!", "Até mais!"};
     private String[] faqs = {
         "Qual é a sua política de privacidade?",
         "Como posso atualizar minhas informações de perfil?",
@@ -79,7 +81,7 @@ public class chatbot {
         } 
         // Verifica se a entrada contém "tchau" ou "adeus" para encerrar a conversa
         else if (input.contains("tchau") || input.contains("adeus")) {
-            System.out.println(farewells[(int)(Math.random() * farewells.length)]);
+            System.out.println(despedidas[(int)(Math.random() * despedidas.length)]);
         } 
         // Verifica se a entrada corresponde a uma FAQ
         else {
