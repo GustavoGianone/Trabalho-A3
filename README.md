@@ -1,18 +1,9 @@
-## Getting Started
+Título: Chatbot de Suporte em Geral para Sites
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Trabalho Desenvolvido por: Gustavo Del'Aqua Gianone (RA: 12524141407), Vitor Hugo Vieira Dos Santos (RA: 12524135277), Gabriel Teles Da Silva (RA: 12524131628), Tiago Abrantes (RA: 12524137343)
 
-## Folder Structure
+Resumo:
 
-The workspace contains two folders by default, where:
+O chatbot de suporte em geral para sites é uma solução inovadora desenvolvida pelos alunos Gustavo Del'Aqua Gianone, Vitor Hugo Vieira Dos Santos, Gabriel Teles Da Silva e Tiago Abrantes como parte de um projeto acadêmico. Este chatbot foi concebido para oferecer assistência em tempo real e informações relevantes aos visitantes de sites, fornecendo uma experiência de suporte eficiente e personalizada.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Em resumo, o chatbot de suporte em geral para sites desenvolvido pelos alunos Gustavo Del'Aqua Gianone, Vitor Hugo Vieira Dos Santos, Gabriel Teles Da Silva e Tiago Abrantes representa uma solução inovadora para melhorar a experiência do usuário e aumentar a eficiência do suporte online. Com sua capacidade de aprendizado contínuo, personalização e versatilidade, este chatbot tem o potencial de transformar a maneira como as empresas interagem com seus clientes online.
