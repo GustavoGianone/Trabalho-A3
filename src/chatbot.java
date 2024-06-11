@@ -22,17 +22,17 @@ public class chatbot {
     
     // Respostas correspondentes às FAQs
     private String[] faqResponses = {
-        "Nossa política de privacidade pode ser encontrada em nosso site na seção 'Política de Privacidade'.",
-        "Você pode atualizar suas informações de perfil acessando a área 'Meu Perfil' em nosso site.",
-        "Sim, você pode cancelar sua assinatura a qualquer momento na seção 'Assinatura' do seu perfil.",
-        "Para redefinir sua senha, clique em 'Esqueci minha senha' na página de login e siga as instruções.",
-        "Aceitamos os seguintes métodos de pagamento: cartão de crédito, PayPal e boleto bancário.",
-        "Se você esquecer seu nome de usuário, clique em 'Esqueci meu nome de usuário' na página de login.",
-        "Você pode entrar em contato com o suporte ao cliente pelo e-mail suporte@exemplo.com ou pelo telefone 0800-123-456.",
-        "Sim, temos um programa de fidelidade! Visite a seção 'Fidelidade' em nosso site para mais informações.",
-        "Você pode encontrar informações sobre nossos produtos/serviços na seção 'Produtos' ou 'Serviços' em nosso site.",
-        "Para fazer uma reclamação, acesse a seção 'Contato' em nosso site e preencha o formulário de reclamação.",
-        "A previsão do tempo para hoje indica que o dia está ensolarado."
+        "nossa política de privacidade pode ser encontrada em nosso site na seção 'Política de Privacidade'.",
+        "você pode atualizar suas informações de perfil acessando a área 'Meu Perfil' em nosso site.",
+        "sim, você pode cancelar sua assinatura a qualquer momento na seção 'Assinatura' do seu perfil.",
+        "para redefinir sua senha, clique em 'Esqueci minha senha' na página de login e siga as instruções.",
+        "aceitamos os seguintes métodos de pagamento: cartão de crédito, PayPal e boleto bancário.",
+        "se você esquecer seu nome de usuário, clique em 'Esqueci meu nome de usuário' na página de login.",
+        "você pode entrar em contato com o suporte ao cliente pelo e-mail suporte@exemplo.com ou pelo telefone 0800-123-456.",
+        "sim, temos um programa de fidelidade! Visite a seção 'Fidelidade' em nosso site para mais informações.",
+        "você pode encontrar informações sobre nossos produtos/serviços na seção 'Produtos' ou 'Serviços' em nosso site.",
+        "para fazer uma reclamação, acesse a seção 'Contato' em nosso site e preencha o formulário de reclamação.",
+        "a previsão do tempo para hoje indica que o dia está ensolarado."
     };
     
     // Palavras-chave para cada FAQ
