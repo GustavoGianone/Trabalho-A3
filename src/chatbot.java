@@ -10,6 +10,8 @@ import java.util.Scanner;
    Tiago Abrantes (RA: 12524137343)
    Kaio Ferreira Dos Santos (RA: 1252414802)
    Juan Victor Varelo Gonçalves Ogata (RA: 12524136758)
+   Pedro Henrique Nogueira (RA: 12524123055)
+   Gabriel Aldo (RA: 12524123056)
 */
 
 public class chatbot {
